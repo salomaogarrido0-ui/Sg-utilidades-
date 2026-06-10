@@ -136,7 +136,7 @@ padding:20px;
 <h2>Qualidade e Economia Para Sua Casa</h2>
 </section>
 
-<section class="produtos">
+<section class="produtos"> #button click
 <h2>Nossos Produtos</h2>
 
 <div class="grid">
