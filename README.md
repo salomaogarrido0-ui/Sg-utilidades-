@@ -26,9 +26,7 @@ padding:20px;
 text-align:center;
 }
 
-header h1{
-font-size:40px;https://photos.app.goo.gl/mQjx7F6Y8PbinviG6
-}
+
 
 header p{
 margin-top:10px;
@@ -200,3 +198,4 @@ Chamar no WhatsApp
 <img width="3072" height="4080" alt="1000203696" src="https://github.com/user-attachments/assets/cfb03fe4-2e7b-4fb6-9e32-401fda595161" />
 <img width="900" height="1600" alt="1000079475" src="https://github.com/user-attachments/assets/d89496af-a93f-4119-8d31-75ae2c08a447" />
 <img width="720" height="1600" alt="1000192899" src="https://github.com/user-attachments/assets/dbc9467d-ea58-4d3f-abff-63bf9be79d01" />
+>img<https://photos.app.goo.gl/QuQUJe53h4D2qW1M9
