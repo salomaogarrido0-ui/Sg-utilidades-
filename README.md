@@ -154,7 +154,7 @@ padding:20px;
 </div>
 
 <div class="card">
-<img src="foto-produto3.jpg">
+
 <h3>Móveis</h3>
 <p>Produtos modernos e resistentes.</p>
 </div>
