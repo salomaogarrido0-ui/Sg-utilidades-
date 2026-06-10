@@ -160,7 +160,7 @@ padding:20px;
 </div>
 
 <div class="card">
-<img src="foto-produto4.jpg">
+
 <h3>Utilidades Domésticas</h3>
 <p>Diversos itens para sua casa.</p>
 </div>
